@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Data\EntityConfigurations\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
